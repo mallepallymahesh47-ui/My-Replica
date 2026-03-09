@@ -1,0 +1,8 @@
+bs4
+ipykernel
+langchain
+langchain-community
+langchain-groq
+langserve
+python-dotenv
+streamlit
